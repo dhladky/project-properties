@@ -1,0 +1,66 @@
+# Modify this file, publish it on your web site and contact
+# JBoss middleware team to set project matrix to parse this file
+# for your project information
+
+# Required fields
+#######################################################
+# should be something like /project or /project/subproject. Only alphanumeric
+# characters are allowed (no spaces)!
+nodePath=/kompose
+# Human readable name of the project. Everything after " - " is cut off.
+projectName=kompose
+# Main URL to your project
+homePage=http://kompose.io
+
+# Miscellaneous fields
+#######################################################
+description=kompose is a tool to help users familiar with docker-compose move to Kubernetes. It takes a Docker Compose file and translates it into Kubernetes resources.
+# ASL, LGPL, LGPL2, LGPL3, EPL, other
+license=ASL
+# if license is other, fill the URL of the license here
+otherLicenseLink=
+specialIcon=
+archived=
+excludeInProjectMatrix=
+subProjects=
+
+
+# Downloads
+#######################################################
+downloadsLink=
+
+# Documents
+#######################################################
+docsLink=http://kompose.io/user-guide/
+
+# Community links
+#######################################################
+communityLink=
+knowledgeBaseLink=
+userForumLink=
+devForumLink=
+mailingListLink=
+chatLink=
+blogLink=
+twitterLink=
+
+# Source code links
+#######################################################
+srcLink=
+anonymousLink=
+committerLink=
+fisheyeLink=
+viewvcLink=
+githubLink=https://github.com/kubernetes/kompose
+anonymousGitLink=
+committerGitLink=
+
+# Build links
+#######################################################
+buildLink=https://github.com/kubernetes/kompose/tree/master/build
+hudsonLink=
+
+# Issue tracker links
+#######################################################
+issueTrackerLink=
+jiraLink=
