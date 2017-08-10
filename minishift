@@ -1,0 +1,68 @@
+# Modify this file, publish it on your web site and contact
+# JBoss middleware team to set project matrix to parse this file
+# for your project information
+
+# Required fields
+#######################################################
+# should be something like /project or /project/subproject. Only alphanumeric
+# characters are allowed (no spaces)!
+nodePath=/minishift
+# Human readable name of the project. Everything after " - " is cut off.
+projectName=Minishift
+# Main URL to your project
+homePage=https://github.com/minishift/minishift
+
+# Miscellaneous fields
+#######################################################
+description=Minishift is a tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. You can try out OpenShift or develop with it, day-to-day, on your local host.
+
+Minishift uses libmachine for provisioning VMs, and OpenShift Origin for running the cluster.
+# ASL, LGPL, LGPL2, LGPL3, EPL, other
+license=ASL
+# if license is other, fill the URL of the license here
+otherLicenseLink=
+specialIcon=
+archived=
+excludeInProjectMatrix=
+subProjects=
+
+
+# Downloads
+#######################################################
+downloadsLink=https://github.com/minishift/minishift/releases
+
+# Documents
+#######################################################
+docsLink=https://github.com/minishift/minishift#documentation
+
+# Community links
+#######################################################
+communityLink=
+knowledgeBaseLink=
+userForumLink=
+devForumLink=
+mailingListLink=
+chatLink=
+blogLink=
+twitterLink=
+
+# Source code links
+#######################################################
+srcLink=
+anonymousLink=
+committerLink=
+fisheyeLink=
+viewvcLink=
+githubLink=
+anonymousGitLink=
+committerGitLink=
+
+# Build links
+#######################################################
+buildLink=
+hudsonLink=
+
+# Issue tracker links
+#######################################################
+issueTrackerLink=
+jiraLink=
