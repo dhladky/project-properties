@@ -1,0 +1,66 @@
+# Modify this file, publish it on your web site and contact
+# JBoss middleware team to set project matrix to parse this file
+# for your project information
+
+# Required fields
+#######################################################
+# should be something like /project or /project/subproject. Only alphanumeric
+# characters are allowed (no spaces)!
+nodePath=
+# Human readable name of the project. Everything after " - " is cut off.
+projectName=.NET Core
+# Main URL to your project
+homePage=https://dotnetfoundation.org/
+
+# Miscellaneous fields
+#######################################################
+description=.NET Core has a high-performance and modular design, and supports full side by side to make it easy to adopt new .NET Core versions without affecting other apps. It currently runs on Linux, Mac, and Windows.
+# ASL, LGPL, LGPL2, LGPL3, EPL, other
+license=ASL
+# if license is other, fill the URL of the license here
+otherLicenseLink=
+specialIcon=
+archived=
+excludeInProjectMatrix=
+subProjects=https://github.com/dotnet/core
+
+
+# Downloads
+#######################################################
+downloadsLink=https://github.com/dotnet/core/blob/master/release-notes/download-archive.md
+
+# Documents
+#######################################################
+docsLink=https://github.com/dotnet/core/tree/master/Documentation
+
+# Community links
+#######################################################
+communityLink=
+knowledgeBaseLink=
+userForumLink=
+devForumLink=
+mailingListLink=
+chatLink=
+blogLink=
+twitterLink=https://twitter.com/dotnet
+
+# Source code links
+#######################################################
+srcLink=
+anonymousLink=
+committerLink=
+fisheyeLink=
+viewvcLink=
+githubLink=https://github.com/dotnet/core
+anonymousGitLink=
+committerGitLink=
+
+# Build links
+#######################################################
+buildLink=
+hudsonLink=
+
+# Issue tracker links
+#######################################################
+issueTrackerLink=https://github.com/dotnet/core/issues
+jiraLink=
